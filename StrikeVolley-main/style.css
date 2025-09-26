@@ -1,0 +1,29 @@
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background-color: oklch(.21 .034 264.665);
+}
+
+.buton{
+    margin-left: 300px;
+    border: 1px solid;
+}
+.buton:hover{
+    color: black;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.carousel-breno{
+    height: 600px;
+    width: 80%;
+    margin: auto;
+}
+
+.card{
+    width: 400px;
+    height: 525px;
+}
+
