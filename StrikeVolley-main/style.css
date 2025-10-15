@@ -42,4 +42,41 @@ body{
     
 }
 
+#bar-lateral {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
 
+#bar-lateral h2{
+    font-size: 0px;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+
+.cx{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bar1{
+    background: yellow;
+    color: aliceblue;
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;;
+}
+
+.bar1 img{
+ 
+}
+
+.bar2{
+    background: rgb(255, 0, 0);
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+}   
